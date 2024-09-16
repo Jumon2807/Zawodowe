@@ -1,0 +1,7 @@
+echo "# Zawodowe" >> README.md 
+git init 
+git add README.md 
+git commit -m "pierwsze zatwierdzenie" 
+git Branch -M main 
+git Remote dodaj Origin https://github.com/Jumon2807/Zawodowe.git
+ git push - pochodzisz z głównego
